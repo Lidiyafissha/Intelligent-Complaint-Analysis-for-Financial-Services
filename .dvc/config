@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_files
+['remote "dvc_files"']
+    url = C:\Users\user\Desktop\dvc_files
